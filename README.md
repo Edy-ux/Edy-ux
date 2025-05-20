@@ -1,5 +1,5 @@
 **Hi there** 👋
-- 👀 I’m interested C# .NET, ASP.NET, JavaScript,  React, Styled Componet, tailwind css ,NodeJs Express, GrapgQL and PostgresSQL, ...
+- 👀 I’m interested C# .NET, ASP.NET, SQL SERVER JavaScript ,NodeJs Express, GrapgQL and PostgresSQL,  React, Styled Componet, tailwind css ...
 - 🌱 I’m currently studying full-stack developer
 - 💞️ I’m looking to collaborate on IT companies
 - 📫 How to reach me: fenderlopes@gmail.com 
